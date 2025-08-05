@@ -2,6 +2,7 @@
 
 Esse projeto foi feito no curso do Anélio Alves, fiz a implementação do DepartmentDAOJDBC.java e algumas melhorias do projeto (como GenericDAO.java e o uso de Optional)
 
+```
 /dao_jdbc
 └── src
     ├── application
@@ -21,4 +22,4 @@ Esse projeto foi feito no curso do Anélio Alves, fiz a implementação do Depar
         └── entites
             ├── Department.java
             └── Seller.java
-
+```
